@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: Riteh(1)
+  m_EditorClassIdentifier: 
+  Name: RitehKiosk
+  Points:
+  - Location:
+      Latitude: 45.33747861100291
+      Longitude: 14.42577334507711
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: ulaz
+    Instruction: ulaz
+  - Location:
+      Latitude: 45.33744478173596
+      Longitude: 14.42574799595289
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: ulaz
+    Instruction: ispred ulaza
+  - Location:
+      Latitude: 45.33708219036963
+      Longitude: 14.42639157699445
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: sk
+    Instruction: skretanje lijevo
+  - Location:
+      Latitude: 45.33787758394096
+      Longitude: 14.42673377979057
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: sk2
+    Instruction: skretanje desno
+  - Location:
+      Latitude: 45.33763028171805
+      Longitude: 14.42724382557172
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: end
+    Instruction: Tisak se nalazi ovdje, ujedno i kraj puta
+  SceneViewScale: 1

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Riteh</name>
+	<gx:CascadingStyle kml:id="__managed_style_0359FBEEDB1F884BDB29">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1AE213C5541F884BDB28">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_074BF311941F884BDB28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AE213C5541F884BDB28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0359FBEEDB1F884BDB29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="09EC38AB5B1F884BDADC">
+		<name>RIteh Igraliste</name>
+		<LookAt>
+			<longitude>14.42488769917817</longitude>
+			<latitude>45.33782526928666</latitude>
+			<altitude>70.57585721234511</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99998891647231</gx:fovy>
+			<range>171.192704015175</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_074BF311941F884BDB28</styleUrl>
+		<LineString>
+			<coordinates>
+				14.42575463443768,45.33747330259284,69.15624798857728 14.42572010426547,45.33743268070744,68.3926907926429 14.4243678570367,45.33798578894537,71.31275925373824 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="02BA3D44F71F884D700B">
+		<name>Put do kioska</name>
+		<LookAt>
+			<longitude>14.42650919259877</longitude>
+			<latitude>45.33742692731245</latitude>
+			<altitude>83.49240742884655</altitude>
+			<heading>25.59897720282203</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99998891647232</gx:fovy>
+			<range>138.4763984052915</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_074BF311941F884BDB28</styleUrl>
+		<LineString>
+			<coordinates>
+				14.42577334507711,45.33747861100291,69.28308321371435 14.42574799595289,45.33744478173596,68.4033340653823 14.42639157699445,45.33708219036963,66.9603467681862 14.42673377979057,45.33787758394096,74.13972872196734 14.42724382557172,45.33763028171805,73.24703713792775 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

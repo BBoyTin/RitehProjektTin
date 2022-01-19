@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ravnice</name>
+	<gx:CascadingStyle kml:id="__managed_style_1FB195EB7D1F7F6A0AE5">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_09E2E20ACC1F7F6A0AE5">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0470E621FF1F7F6A0AE4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_09E2E20ACC1F7F6A0AE5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1FB195EB7D1F7F6A0AE5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00A81AA6A21F7F6A0AE3">
+		<name>plato</name>
+		<LookAt>
+			<longitude>16.02616060899132</longitude>
+			<latitude>45.81887592102746</latitude>
+			<altitude>127.9328532300736</altitude>
+			<heading>12.04845832106376</heading>
+			<tilt>6.723705769607353</tilt>
+			<gx:fovy>30.00014573</gx:fovy>
+			<range>683.7059444357146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0470E621FF1F7F6A0AE4</styleUrl>
+		<LineString>
+			<coordinates>
+				16.02560348598385,45.81882839414907,117.676582015088 16.02597216359779,45.81899663768843,117.9866846488232 16.02638413060304,45.81911778009827,120.2516239817245 16.02641949528596,45.8192486163373,120.2517594725041 16.02621478063567,45.81966232076076,120.2516247329028 16.02613629886856,45.81991209709795,120.0876344466123 16.02595047326326,45.81987330003683,120.2516013077399 16.02583424246881,45.82014083863244,120.2515239321311 16.0252947786513,45.8200098511036,117.8610915274194 16.02540144358842,45.81970079729933,117.9949489045217 16.02556121883465,45.8193731466343,117.8148640049618 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0C23D8B8531F7F6AEE89">
+		<name>put do bake</name>
+		<LookAt>
+			<longitude>16.03040450672516</longitude>
+			<latitude>45.82017436514045</latitude>
+			<altitude>137.8764296874044</altitude>
+			<heading>348.6327115484139</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00014573</gx:fovy>
+			<range>1839.608657076024</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0470E621FF1F7F6A0AE4</styleUrl>
+		<LineString>
+			<coordinates>
+				16.02675765217987,45.81838576353846,116.9833921154938 16.02716301051317,45.81763296201949,116.1675950933105 16.02728888841465,45.81741653834787,116.9050196464068 16.02715988411571,45.81739501975827,115.7402988667937 16.02759443676641,45.81637385039186,115.5085927667294 16.02777470716394,45.81593668653611,115.508819971994 16.02769717365359,45.81554832428803,115.5087708950118 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

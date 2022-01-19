@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: ravnice(0)
+  m_EditorClassIdentifier: 
+  Name: put oko platoa
+  Points:
+  - Location:
+      Latitude: 45.81882839414907
+      Longitude: 16.02560348598385
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: from
+    Instruction: ovdje krece tvoj put
+  - Location:
+      Latitude: 45.81899663768843
+      Longitude: 16.02597216359779
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: s
+    Instruction: stepenice
+  - Location:
+      Latitude: 45.81911778009827
+      Longitude: 16.02638413060304
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: pl
+    Instruction: pocetak platoa
+  - Location:
+      Latitude: 45.8192486163373
+      Longitude: 16.02641949528596
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.81966232076076
+      Longitude: 16.02621478063567
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.81991209709795
+      Longitude: 16.02613629886856
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.81987330003683
+      Longitude: 16.02595047326326
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.82014083863244
+      Longitude: 16.02583424246881
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: kraj pl
+    Instruction: kraj platoa
+  - Location:
+      Latitude: 45.8200098511036
+      Longitude: 16.0252947786513
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: kiosk
+    Instruction: kiosk
+  - Location:
+      Latitude: 45.81970079729933
+      Longitude: 16.02540144358842
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: lje
+    Instruction: ljekarna
+  - Location:
+      Latitude: 45.8193731466343
+      Longitude: 16.02556121883465
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: to
+    Instruction: kraj puta
+  SceneViewScale: 1

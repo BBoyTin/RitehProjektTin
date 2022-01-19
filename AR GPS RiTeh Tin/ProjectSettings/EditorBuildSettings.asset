@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneManager.unity
+    guid: b6a15bf91f43b484eb82761eae8e60c9
+  - enabled: 1
+    path: Assets/Scenes/Route tests/Glavni mapbox.unity
+    guid: dedcf6a360490a245be5857fc7c50c5f
+  - enabled: 1
+    path: Assets/Scenes/Route tests/trg mapbox.unity
+    guid: 22cfe6b36b1f80d4ea75d88c7fc2f545
+  - enabled: 1
+    path: Assets/Scenes/Route tests/Route test Ravnice 1.unity
+    guid: 915ccd3c53d7de3448d4d7d43cf04fb5
+  - enabled: 1
+    path: Assets/Scenes/Route tests/Route test Ravnice 2.unity
+    guid: a1a1e8c1ab4704c4d94d58a856df6480
+  - enabled: 0
+    path: Assets/Scenes/DB/ExistingDBScript.unity
+    guid: aa5f33c98bc6a57468fcada5b87d3516
+  - enabled: 1
+    path: Assets/Scenes/DB/DB test to get locations to mapbox.unity
+    guid: 858ddb876a01db147aa9af838414066c
+  - enabled: 1
+    path: Assets/Scenes/Route tests/Route test Riteh 1.unity
+    guid: 9f5fc811835e0b84384610c00991861f
+  - enabled: 1
+    path: Assets/Scenes/Route tests/Route test Riteh 1 bez debuga.unity
+    guid: 3b0a9f55988c7324d9481fc827260d97
+  - enabled: 1
+    path: Assets/Scenes/Route tests/Route test Riteh 2.unity
+    guid: 7d7c9713fc8a6ef45a5e7ca384317528
+  - enabled: 1
+    path: Assets/Scenes/DB/DB Riteh.unity
+    guid: a1f8ff93a1228474ab5a49067e7dce57
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 50333337aa5da7c4ab2bade9cb234124,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}

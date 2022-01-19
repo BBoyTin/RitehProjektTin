@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: glavni(0)
+  m_EditorClassIdentifier: 
+  Name: glavni kolodvor
+  Points:
+  - Location:
+      Latitude: 45.80526316449727
+      Longitude: 15.97802788674679
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: ulaz
+    Instruction: ulaz u importane je tu negdje
+  - Location:
+      Latitude: 45.80515312102847
+      Longitude: 15.97875224698538
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.80543645478919
+      Longitude: 15.97885358416453
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: kip
+    Instruction: kip je blizu ovome
+  - Location:
+      Latitude: 45.80544571408262
+      Longitude: 15.97812398477988
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.8062442472995
+      Longitude: 15.97804433585497
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.80608660009979
+      Longitude: 15.97818290331495
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: a
+    Instruction: retardirano sam stavio prije stepenica
+  SceneViewScale: 1

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: ravnice(1)
+  m_EditorClassIdentifier: 
+  Name: put do bake
+  Points:
+  - Location:
+      Latitude: 45.81838576353846
+      Longitude: 16.02675765217987
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: from
+    Instruction: stepenice od skole
+  - Location:
+      Latitude: 45.81763296201949
+      Longitude: 16.02716301051317
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: dru
+    Instruction: drugi step
+  - Location:
+      Latitude: 45.81741653834787
+      Longitude: 16.02728888841465
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.81739501975827
+      Longitude: 16.02715988411571
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: gym
+    Instruction: leon gym
+  - Location:
+      Latitude: 45.81637385039186
+      Longitude: 16.02759443676641
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: kaf
+    Instruction: kafic
+  - Location:
+      Latitude: 45.81593668653611
+      Longitude: 16.02777470716394
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 45.81554832428803
+      Longitude: 16.02769717365359
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: to
+    Instruction: ispred bakinog ulaza
+  SceneViewScale: 1
