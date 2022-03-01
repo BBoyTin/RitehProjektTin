@@ -1,4 +1,4 @@
-# RitehProjektTin
+# Diplomski rad - aplikacija
  
  
 Projekt za Diplomski Rad Tin Trupeljak.
